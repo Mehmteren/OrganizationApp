@@ -46,5 +46,3 @@ Bu proje, düğün, doğum günü, nişan, kına ve benzeri birçok etkinlik iç
 - PostgreSQL
 
 ---
-
-## 📂 Proje Yapıs
