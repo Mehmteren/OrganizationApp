@@ -8,7 +8,6 @@ Bu proje, düğün, doğum günü, nişan, kına ve benzeri birçok etkinlik iç
 ![home](readmeİmg/home.jpg)
 
 ### 🔐 Giriş Sayfası
-![login](readmeİmg/login.jpg)
 
 ### 📝 Kayıt Sayfası
 ![register](readmeİmg/register.jpg)
