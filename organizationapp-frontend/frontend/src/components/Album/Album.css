@@ -1,0 +1,168 @@
+/* Album.css */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+/* Genel konteyner stili */
+.album-container {
+  max-width: 1200px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+/* Başlık stili */
+.memories-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.memories-title h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.memories-title p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  color: #666;
+  border-bottom: 2px solid #979a8a;
+  display: inline-block;
+  padding: 0 2rem 0.5rem;
+}
+
+/* Swiper konteyner stili */
+.mySwiper {
+  width: 100%;
+  height: 600px;
+}
+
+/* Slide stili */
+.swiper-slide {
+  text-align: center;
+  background: #fff;
+}
+
+/* Slide içeriği stili */
+.slide-content {
+  width: 80%;
+  position: relative;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.slide-content img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.slide-content:hover img {
+  transform: scale(1.05);
+}
+
+/* Başlık stili */
+.slide-title {
+  position: absolute;
+  bottom: 2rem;
+  width: 100%;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  z-index: 10;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.slide-content:hover .slide-title {
+  opacity: 1;
+}
+
+/* Pagination stili */
+.swiper-pagination-bullet {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.2);
+  margin: 0 5px !important;
+  transition: all 0.3s ease;
+}
+
+.swiper-pagination-bullet-active {
+  color: #fff;
+  background: #979a8a;
+  transform: scale(1.2);
+}
+
+/* Pagination konteyner stili */
+.swiper-pagination {
+  position: relative;
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Responsive ayarlamalar */
+@media (max-width: 1024px) {
+  .mySwiper {
+    height: 500px;
+  }
+  
+  .slide-title {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .mySwiper {
+    height: 400px;
+  }
+  
+  .slide-content {
+    width: 90%;
+  }
+  
+  .slide-title {
+    font-size: 2rem;
+  }
+  
+  .memories-title h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .mySwiper {
+    height: 350px;
+  }
+  
+  .slide-title {
+    font-size: 1.8rem;
+    bottom: 1.5rem;
+  }
+  
+  .swiper-pagination-bullet {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+  }
+  
+  .memories-title h1 {
+    font-size: 2.5rem;
+  }
+}

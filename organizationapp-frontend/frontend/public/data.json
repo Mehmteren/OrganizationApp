@@ -1,0 +1,255 @@
+[
+    {
+      "id": 1,
+      "title": "Venue Selection",
+      "img": "https://i.ibb.co/Yt2gH58/venu.jpg",
+      "price": 3000,
+      "details": "We help you find the perfect venue for your dream wedding.",
+      "packages": [
+        {
+          "package_id": "1",
+          "package_name": "Venu  Silver Package",
+          "package_features": [
+            "Access to the venue for 4 hours",
+            "Basic decorations included",
+            "Seating for up to 50 guests"
+          ],
+          "package_price": "$1000",
+          "package_image": "silver_package.jpg"
+        },
+        {
+          "package_id": "2",
+          "package_name": "Venu  Gold Package",
+          "package_features": [
+            "Access to the venue for 8 hours",
+            "Premium decorations included",
+            "Seating for up to 100 guests"
+          ],
+          "package_price": "$2000",
+          "package_image": "gold_package.jpg"
+        },
+        {
+          "package_id": "3",
+          "package_name": "Venu Platinum Package",
+          "package_features": [
+            "Access to the venue for 12 hours",
+            "Luxury decorations included",
+            "Seating for up to 200 guests",
+            "Catering service included"
+          ],
+          "package_price": "$4000",
+          "package_image": "platinum_package.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Catering Services",
+      "img": "https://i.ibb.co/z2RD0WM/catering-2.webp",
+      "price": 5000,
+      "details": "Delicious and diverse catering options for your wedding guests.",
+      "packages": [
+        {
+          "package_id": "21",
+          "package_name": "Catering Silver Package",
+          "package_features": [
+            "Buffet-style dinner for up to 100 guests",
+            "Choice of 2 main courses and 3 sides",
+            "Basic table settings and linens"
+          ],
+          "package_price": "$3,000",
+          "package_image": "silver_package.jpg"
+        },
+        {
+          "package_id": "22",
+          "package_name": "Catering Gold Package",
+          "package_features": [
+            "Plated dinner for up to 150 guests",
+            "Choice of 3 main courses and 4 sides",
+            "Elegant table settings, linens, and centerpieces"
+          ],
+          "package_price": "$5,000",
+          "package_image": "gold_package.jpg"
+        },
+        {
+          "package_id": "23",
+          "package_name": "Catering Platinum Package",
+          "package_features": [
+            "Gourmet buffet-style dinner for up to 200 guests",
+            "Customizable menu with chef's specialties",
+            "Luxurious table settings, linens, and floral arrangements"
+          ],
+          "package_price": "$8,000",
+          "package_image": "platinum_package.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Photography and Videography",
+      "img": "https://i.ibb.co/CtmsBRP/photography.jpg",
+      "price": 4000,
+      "details": "Capture your special moments with professional photography and videography.",
+      "packages": [
+        {
+          "package_id": "31",
+          "package_name": "Photography Basic Package",
+          "package_features": [
+            "Up to 2 hours of photography coverage",
+            "50 edited high-resolution photos",
+            "Online gallery"
+          ],
+          "package_price": "$500",
+          "package_image": "basic_package.jpg"
+        },
+        {
+          "package_id": "32",
+          "package_name": "Photography Standard Package",
+          "package_features": [
+            "Up to 4 hours of photography coverage",
+            "100 edited high-resolution photos",
+            "Engagement session"
+          ],
+          "package_price": "$800",
+          "package_image": "standard_package.jpg"
+        },
+        {
+          "package_id": "33",
+          "package_name": "Photography Premium Package",
+          "package_features": [
+            "Full-day coverage",
+            "200 edited high-resolution photos",
+            "Customized wedding album"
+          ],
+          "package_price": "$1500",
+          "package_image": "premium_package.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Floral Decoration",
+      "img": "https://i.ibb.co/XpDSTvv/flowers2.jpg",
+      "price": 2500,
+      "details": "Elegant and beautiful floral decorations to enhance your wedding venue.",
+      "packages": [
+        {
+          "package_id": "41",
+          "package_name": "Elegant Floral Package",
+          "package_features": [
+            "Floral arrangements for the ceremony and reception",
+            "Bridal bouquet and boutonnieres for the wedding party",
+            "Customized floral centerpieces"
+          ],
+          "package_price": "$2,500",
+          "package_image": "elegant_floral_package.jpg"
+        },
+        {
+          "package_id": "42",
+          "package_name": "Classic Roses Package",
+          "package_features": [
+            "Red and white rose arrangements for the ceremony",
+            "Rose petal aisle decor",
+            "Roses for the wedding party and family members"
+          ],
+          "package_price": "$1,800",
+          "package_image": "classic_roses_package.jpg"
+        },
+        {
+          "package_id": "43",
+          "package_name": "Garden Romance Package",
+          "package_features": [
+            "Lush garden-style floral arrangements",
+            "Cascading bouquet for the bride",
+            "Floral arch and aisle decor"
+          ],
+          "package_price": "$3,200",
+          "package_image": "garden_romance_package.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Entertainment Services",
+      "img": "https://i.ibb.co/Qj1bFzk/110-wedding-entertainment-ideas.png",
+      "price": 3500,
+      "details": "Keep your guests entertained with live music, DJs, and more.",
+      "packages": [
+        {
+          "package_id": "51",
+          "package_name": "Silver Entertainment Package",
+          "package_features": [
+            "Professional DJ service",
+            "Sound and lighting equipment",
+            "4 hours of music entertainment"
+          ],
+          "package_price": "$800",
+          "package_image": "silver_package.jpg"
+        },
+        {
+          "package_id": "52",
+          "package_name": "Gold Entertainment Package",
+          "package_features": [
+            "Live band performance",
+            "Sound and lighting setup",
+            "5 hours of live music entertainment"
+          ],
+          "package_price": "$1500",
+          "package_image": "gold_package.jpg"
+        },
+        {
+          "package_id": "53",
+          "package_name": "Platinum Entertainment Package",
+          "package_features": [
+            "Live band and DJ combo",
+            "State-of-the-art sound and lighting",
+            "8 hours of entertainment"
+          ],
+          "package_price": "$2500",
+          "package_image": "platinum_package.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Event Planning and Coordination",
+      "img": "https://i.ibb.co/wrtfwGq/rs-w-1240-h-620-cg-true.webp",
+      "price": 6000,
+      "details": "Comprehensive event planning and coordination services to make your wedding stress-free.",
+      "packages": [
+        {
+          "package_id": "61",
+          "package_name": "Economy Event Package",
+          "package_features": [
+            "Venue selection and booking",
+            "Basic decor setup",
+            "Day-of coordination"
+          ],
+          "package_price": "$2,500",
+          "package_image": "economy_package.jpg"
+        },
+        {
+          "package_id": "62",
+          "package_name": "Standard Event Package",
+          "package_features": [
+            "Venue selection and booking",
+            "Full decor setup",
+            "Day-of coordination"
+          ],
+          "package_price": "$4,500",
+          "package_image": "standard_package.jpg"
+        },
+        {
+          "package_id": "63",
+          "package_name": "Premium Event Package",
+          "package_features": [
+            "Venue selection and booking",
+            "Full decor setup",
+            "Day-of coordination with additional planning meetings"
+          ],
+          "package_price": "$6,500",
+          "package_image": "premium_package.jpg"
+        }
+      ]
+    }
+  ]

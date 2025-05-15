@@ -1,0 +1,17 @@
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\VisualStudioProjects\OrganizationBackend\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

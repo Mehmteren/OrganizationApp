@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudioProjects\\OrganizationBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBFAA5-6FBF-4031-BB7A-6E5F3C6E31C5}|Business\\Business.csproj|c:\\visualstudioprojects\\organizationbackend\\business\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBFAA5-6FBF-4031-BB7A-6E5F3C6E31C5}|Business\\Business.csproj|solutionrelative:business\\services\\organizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2FAE4F-30BD-493C-B7ED-6050DE87A2E3}|WebAPI\\WebAPI.csproj|c:\\visualstudioprojects\\organizationbackend\\webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2FAE4F-30BD-493C-B7ED-6050DE87A2E3}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizationService.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjects\\OrganizationBackend\\Business\\Services\\OrganizationService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\OrganizationService.cs",
+              "ToolTip": "C:\\VisualStudioProjects\\OrganizationBackend\\Business\\Services\\OrganizationService.cs",
+              "RelativeToolTip": "Business\\Services\\OrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:14:56.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjects\\OrganizationBackend\\WebAPI\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\VisualStudioProjects\\OrganizationBackend\\WebAPI\\Controllers\\OrganizationController.cs*",
+              "RelativeToolTip": "WebAPI\\Controllers\\OrganizationController.cs*",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAPkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:11:43.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

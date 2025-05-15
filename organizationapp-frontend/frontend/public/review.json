@@ -1,0 +1,23 @@
+[
+  {
+    "review_id": "review001",
+    "username": "Ayşe Yılmaz",
+    "user_image": "https://img.freepik.com/premium-vector/little-boy-smiling-waving-hand-little-boy-portrait-circular-shape_254685-1100.jpg?w=826",
+    "review_rating": 4.5,
+    "review_text": "Hizmetten son derece memnun kaldım. Her şey sorunsuz ilerledi ve dekorasyon muhteşemdi!"
+  },
+  {
+    "review_id": "review002",
+    "username": "Mehmet Demir",
+    "user_image": "https://img.freepik.com/premium-vector/avatar-icon0002_750950-43.jpg?w=826",
+    "review_rating": 5.0,
+    "review_text": "Kesinlikle harika! Organizasyon ekibi beklentilerimizin ötesine geçti. Kesinlikle tavsiye ediyorum."
+  },
+  {
+    "review_id": "review003",
+    "username": "Zeynep Kaya",
+    "user_image": "https://img.freepik.com/premium-vector/portrait-beautiful-women-round-frame-avatar-female-character-isolated-white-background_559729-210.jpg?w=826",
+    "review_rating": 4.0,
+    "review_text": "Özel günümüz, onların uzmanlığı sayesinde daha da özel hale geldi. Harika bir iş çıkardılar!"
+  }
+]

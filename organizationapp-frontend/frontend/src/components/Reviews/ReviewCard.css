@@ -1,0 +1,48 @@
+/* ReviewCard.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+.review-card {
+  background-color: white;
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(255, 107, 107, 0.05);
+  width: 100%;
+  max-width: 320px;
+  transition: transform 0.3s ease;
+}
+
+.review-card:hover {
+  transform: translateY(-5px);
+}
+
+.review-image-container {
+  margin-bottom: 1.5rem;
+}
+
+.review-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+.star-rating {
+  margin-bottom: 1rem;
+}
+
+.reviewer-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+.review-text {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #666;
+  line-height: 1.6;
+  font-size: 1.1rem;
+}

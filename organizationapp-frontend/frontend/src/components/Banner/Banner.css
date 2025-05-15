@@ -1,0 +1,116 @@
+/* Banner.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap');
+
+
+.banner-container {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  top: 0; 
+}
+
+
+
+.banner-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-size: cover;
+  background-position: top center; 
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 2rem;
+}
+
+.banner-title-container {
+  text-align: center;
+}
+
+.banner-title-main {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3.5rem;
+  font-weight: 300;
+  letter-spacing: 8px;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.banner-title-script {
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  font-size: 6rem;
+  font-weight: 700;
+  margin-top: -20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive ayarlamalar */
+@media (max-width: 1024px) {
+  .banner-title-main {
+    font-size: 3rem;
+  }
+  .banner-title-script {
+    font-size: 5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner-container {
+    height: 70vh;
+  }
+  
+  .banner-title-main {
+    font-size: 2.5rem;
+    letter-spacing: 5px;
+  }
+  .banner-title-script {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .banner-container {
+    height: 50vh;
+  }
+  
+  .banner-title-main {
+    font-size: 1.8rem;
+    letter-spacing: 3px;
+  }
+  .banner-title-script {
+    font-size: 3rem;
+    margin-top: -10px;
+  }
+}
+
